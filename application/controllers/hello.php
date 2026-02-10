@@ -11,8 +11,9 @@ class hello extends CI_Controller {
     
 
 {
-    $data['nama'] = "m";
+    $data['nama'] = "o";
    $this->load->view('hello_view',$data);
 }
+
 
 }
